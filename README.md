@@ -1,1 +1,3 @@
 # Garbage-Automatic-Management-System
+
+This project aimed to develop a waste collection programme using C++. The idea was to implement different path-finding algorithms that traverse a graph to find the route that collects the most waste while keeping costs low, and then to compare these algorithms so the user could decide on the route that best fits their needs. This meant displaying potential routes with their associated costs, distances, and the number of locations where waste was collected. The selected route information then needed to be saved to a file, allowing the user to keep a record of the route they wanted to take.
