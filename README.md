@@ -1,0 +1,1 @@
+# Garbage-Automatic-Management-System
